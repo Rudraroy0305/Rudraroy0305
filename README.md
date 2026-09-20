@@ -18,6 +18,39 @@ useful, user-facing applications with clear responses and dependable backend ser
 - Multilingual, OCR, Bangla ASR, and multimodal AI applications
 - Production-oriented APIs, data services, and deployment workflows
 
+## Research Profile
+
+My academic work focuses on developing reliable and responsible AI methods for
+human-centered applications, especially:
+
+- Computer vision, multimodal learning, and vision-language models
+- Sign-language and hand-gesture recognition for accessibility
+- Medical imaging and retinal image analysis
+- Speech enhancement and audio signal processing
+- Federated learning, privacy-preserving AI, and responsible ML
+- RAG, LLM systems, and intelligent multimodal applications
+
+### Selected Publications
+
+I have co-authored six published IEEE conference papers and currently have four
+manuscripts under journal review. Selected published work includes:
+
+1. **Real-time sign-language recognition and translation** — [IEEE R10-HTC 2024](https://doi.org/10.1109/R10-HTC59322.2024.10778790)
+2. **Privacy-preserving EMG hand-gesture recognition** — [IEEE TENSYMP 2024](https://doi.org/10.1109/TENSYMP61132.2024.10752112)
+3. **Transfer and ensemble learning for retinal OCT biomarkers** — [ICEEICT 2024](https://doi.org/10.1109/ICEEICT62016.2024.10534519)
+4. **Clean-data-independent speech enhancement with modified cGAN** — [IEEE TENCON 2024](https://doi.org/10.1109/TENCON61640.2024.10903013)
+5. **Video-over-intercom service with home-automation features** — [RAAICON 2024](https://doi.org/10.1109/RAAICON64172.2024.10928380)
+6. **Waveform and wavelet-based deep learning for speech enhancement** — [IEEE ICCIT 2024](https://doi.org/10.1109/ICCIT64611.2024.11022373)
+
+### Thesis & Academic Recognition
+
+- **B.Sc. thesis:** *CAPRes50-GAN: A Word-Level Sign Language Recognition Approach for Real-Life Scenarios Exploiting GAN-Based Classifier*
+- **IEEE WIE Big Idea Pitch Competition 2024:** Champion, IEEE Global
+- **IEEE R10 HTC 2024:** Silver Award for CHINHO, an AI-based wearable sign-language interpreter
+- **VIP CUP 2023:** Finalist, IEEE Global
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=ruITPEcAAAAJ&hl=en)
+
 ## Technical Stack
 
 ### Programming & Application Development
